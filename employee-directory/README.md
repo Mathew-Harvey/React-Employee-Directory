@@ -1,3 +1,26 @@
+# Employee Directory
+![GitHub followers](https://img.shields.io/github/followers/mathew-harvey?style=social)
+
+![License type](https://img.shields.io/badge/License-MIT-Blue)
+
+## Table of Contents
+- [Demo](##Demo-)
+- [Description](##Description-)
+- [Motivation](#Motivation-)
+- [Installation](#Installation-)
+- [Usage](#Usage-)
+- [License](#License-)
+- [How to Contribute](#How-to-Contribute-)
+- [Authors](#Authors-)
+- [Questions](#Questions-)
+- [Application ScreenShots](#Application-ScreenShots-)
+## Demo 💻
+![Demo Video](./assets/employee-directory.gif)
+## Description 🧐
+This project is an exercise in learning ReactJS. I learnt to queery a API and display the results in a searchable format
+## Motivation 🚀
+To understand ReactJS better
+## Installation 🛠️
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License 🎓
+This application is licensed under: MIT
+## How to Contribute 🍰
+Fork or clone and do your best
+## Authors ✨
+Mathew Harvey
+## Questions 🤔
+Please feel free to contact me with any questions you may have: 
+
+
+### GitHub: https://github.com/mathew-harvey
+
+### Email: mathewharvey@gmail.com
+
