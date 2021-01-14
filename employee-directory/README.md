@@ -16,6 +16,7 @@
 - [Application ScreenShots](#Application-ScreenShots-)
 ## Demo 💻
 ![Demo Video](./assets/employee-directory.gif)
+## DEPLOYED APPLICATION: https://mathew-harvey.github.io/React-Employee-Directory/
 ## Description 🧐
 This project is an exercise in learning ReactJS. I learnt to queery a API and display the results in a searchable format
 ## Motivation 🚀
